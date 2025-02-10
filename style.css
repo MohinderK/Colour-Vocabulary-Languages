@@ -1,0 +1,62 @@
+.color-title {
+    font-weight: normal;
+}
+
+
+#flag {
+    height: 200px;
+    width: 300px;
+}
+
+#peela {
+    color: #e6e661;
+}
+
+#santari {
+    color: #ff6600 ;
+}
+
+#laal {
+    color: #ff0000 ;
+}
+
+#jamuni {
+    color: #604a7b;
+}
+
+#neela {
+    color: #0070c0;
+}
+
+#hara {
+    color: #009600;
+}
+
+#phirozi {
+    color: #33cccc;
+}
+
+#gulaabi {
+    color: #ff33cc;
+}
+
+#saleti {
+    color: #7f7f7f;
+}
+
+#brawn {
+    color: #743a00;
+}
+
+#chita {
+    color: #eae4e4;
+}
+
+#kala {
+    color: #000000;
+}
+
+img {
+    height:200px;
+    width: 200px;
+}
